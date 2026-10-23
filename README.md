@@ -1,5 +1,13 @@
 # Pendulum X / D-Cyber 中文攻略
 
+## 中文 / English
+
+網站現包含兩種語言：`index.html` 為繁體中文，`index_en.html` 為英文。頁首的 **EN / 中文** 可切換語言並保留目前分類。英文資料直接使用英文攻略表，不會以中文資料取代英文版的個別條件。
+
+English edition: open `index_en.html`. Both languages are included in the same GitHub Pages package. The **EN / 中文** switch keeps the current guide section. English data comes directly from https://docs.google.com/spreadsheets/d/1AE7si_UcBDme-DoMRG1jMWNLtQ1wn6uRhJDqwKoypzo/edit — 65 profiles, 186 evolution routes, 17 items, 91 quest entries, 17 Blast Evolution routes and 69 Acom entries. Some artwork and the owner-supplied button diagrams retain their original Chinese labels. Japanese and Chinese aliases remain in profiles where supplied by the source.
+
+**發佈雙語版本時，請上傳 ZIP 內所有檔案及整個 `assets` 資料夾**，包括 `index_en.html`、`app-en.js`、`data-en.js`、`language-switch.js` 及 `assets/en`，再依下方方式啟用 Pages。Upload the entire ZIP contents to publish both languages.
+
 以 DigiKidult 原始中文攻略的文字及圖片重新設計的靜態網站。提供數碼圖鑑、進化路線、操作玩法、道具、關卡掉落、爆裂進化、Acom 代碼及 FAQ。適合手機、平板與桌面使用。
 
 ## 發佈至 GitHub Pages

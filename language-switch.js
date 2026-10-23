@@ -1,0 +1,1 @@
+(()=>{const a=document.getElementById('language-switch');if(!a)return;const target=document.documentElement.lang==='en'?'index.html':'index_en.html';const update=()=>a.href=target+(location.hash||'#/dex');window.addEventListener('hashchange',update);update();})();
