@@ -12120,76 +12120,59 @@ window.GUIDE={
       "row": 40,
       "paragraphs": [
         {
-          "text": "進階操作",
-          "row": 40
+          "row": 40,
+          "text": "進階操作"
         },
         {
-          "text": "在主畫面：",
-          "row": 41
+          "row": 41,
+          "text": "[在主畫面]"
         },
         {
-          "text": "A鍵 — 進入Menu",
-          "row": 43
+          "row": 43,
+          "text": "A鍵 — 進入Menu"
         },
         {
-          "text": "B鍵 — 顯示時間",
-          "row": 45
+          "row": 45,
+          "text": "B鍵 — 顯示時間"
         },
         {
-          "text": "B+C鍵 — 凍結數碼獸(暫停育成)",
-          "row": 47
+          "row": 47,
+          "text": "B+C鍵 — 凍結數碼獸(暫停育成)"
         },
         {
-          "text": "A+C鍵 — 開啟/關閉聲音",
-          "row": 49
+          "row": 49,
+          "text": "A+C鍵 — 開啟/關閉聲音"
         },
         {
-          "text": "在時間畫面：",
-          "row": 51
+          "row": 51,
+          "text": "[在時間畫面]"
         },
         {
-          "text": "A鍵 — 砌換24小時/12小時制",
-          "row": 53
+          "row": 53,
+          "text": "A鍵 — 切換24小時/12小時制"
         },
         {
-          "text": "B鍵 — 離開時間畫面",
-          "row": 55
+          "row": 55,
+          "text": "B鍵 — 離開時間畫面"
         },
         {
-          "text": "A+C鍵 — 更改時間",
-          "row": 57
+          "row": 57,
+          "text": "A+C鍵 — 更改時間"
         },
         {
-          "text": "版本檢查",
-          "row": 61
+          "row": 61,
+          "text": "[版本檢查]"
         },
         {
-          "text": "PenX",
-          "row": 62
+          "row": 62,
+          "text": "PenX：Reset+A+C鍵"
         },
         {
-          "text": "D-Cyber",
-          "row": 62
-        },
-        {
-          "text": "Reset+A+C鍵",
-          "row": 64
-        },
-        {
-          "text": "Reset+A+B鍵",
-          "row": 64
+          "row": 64,
+          "text": "D-Cyber：Reset+A+B鍵"
         }
       ],
-      "images": [
-        {
-          "src": "assets/image26.png",
-          "row": 67
-        },
-        {
-          "src": "assets/image20.png",
-          "row": 67
-        }
-      ]
+      "images": []
     },
     {
       "id": "article2-82",
@@ -12204,54 +12187,6 @@ window.GUIDE={
         {
           "text": "[Digimon / デジモン]\n\n可以查看你的數碼獸的各項數據，包括飢餓值、體重和勝率。",
           "row": 83
-        },
-        {
-          "text": "AGE:顯示DIGIMON的歲數",
-          "row": 86
-        },
-        {
-          "text": "WT= 顯示DIGIMON的重量",
-          "row": 87
-        },
-        {
-          "text": "Generation: 代表所屬世代 (例子：兩個圖示，即為第二世代)；最高為第三世代，會有解鎖更多進化路線",
-          "row": 88
-        },
-        {
-          "text": "級別 :顯示DIGIMON的成長階段",
-          "row": 90
-        },
-        {
-          "text": "屬性: 顯示 DIGIMON 的屬性",
-          "row": 90
-        },
-        {
-          "text": "幼年期In-training/成長期 Rookie/成熟期 Champion/",
-          "row": 91
-        },
-        {
-          "text": "Vi(病毒)/ Da(資料)/Va (疫苗)",
-          "row": 91
-        },
-        {
-          "text": "完全體 Ultimate/究極體 Mega",
-          "row": 92
-        },
-        {
-          "text": "戰鬥:判斷可否進行通信對戰;",
-          "row": 93
-        },
-        {
-          "text": "合體 Jogress: 判斷可否進行合體;",
-          "row": 93
-        },
-        {
-          "text": "O表示可進行 / X表示不可進行。",
-          "row": 94
-        },
-        {
-          "text": "O表示可進行 / X 表示不可進行。",
-          "row": 94
         },
         {
           "text": "オナカ (飢餓度)",
@@ -12352,12 +12287,8 @@ window.GUIDE={
           "row": 83
         },
         {
-          "src": "assets/image43.png",
-          "row": 86
-        },
-        {
-          "src": "assets/image9.png",
-          "row": 90
+          "src": "assets/play-update/status.png",
+          "row": 84
         },
         {
           "src": "assets/image13.png",
@@ -12456,136 +12387,16 @@ window.GUIDE={
         {
           "text": "每隻數碼獸的最佳搖晃次數不同，會影響最終之5回攻擊效果 (可參閱 \"數碼獸資料\")",
           "row": 153
-        },
-        {
-          "text": "[XAI指示骰之效果]",
-          "row": 155
-        },
-        {
-          "text": "只出[1波]",
-          "row": 162
-        },
-        {
-          "text": "上限[2波]",
-          "row": 162
-        },
-        {
-          "text": "上限[3波]",
-          "row": 162
-        },
-        {
-          "text": "上限[大波]",
-          "row": 162
-        },
-        {
-          "text": "100% TeraHit\n(無視搖機結果)",
-          "row": 162
-        },
-        {
-          "text": "計分方法",
-          "row": 165
-        },
-        {
-          "text": "會根據5回攻擊形態來決定你的得分\n攻擊形態\n[1波]  = 0 分(每發)\n[2波]  = 1 分(每發)\n[3波]= 2 分(每發)\n[大波] = 4 分(每發)\n\n你需要獲得 5 分或以上，才能成功提升數碼獸的強度\n連續五次2波攻擊可獲得“Megahit”\n連續五次3波攻擊可獲得“Gigahit”\n連續 五次大波攻擊可獲得“TeraHit\"",
-          "row": 166
-        },
-        {
-          "text": "以Ver2.0的 紅蓮X為例",
-          "row": 168
-        },
-        {
-          "text": "搖機數/XAI指示骰",
-          "row": 169
-        },
-        {
-          "text": "19/20(紅蓮X之最佳搖機數)",
-          "row": 172
-        },
-        {
-          "text": "0分\n[1x5]",
-          "row": 172
-        },
-        {
-          "text": "5分\n[2x5](Mega Hit)",
-          "row": 172
-        },
-        {
-          "text": "10分\n[3x5](Giga Hit)",
-          "row": 172
-        },
-        {
-          "text": "20分\n(TeraHit)",
-          "row": 172
-        },
-        {
-          "text": "20分\n(TeraHit)",
-          "row": 172
-        },
-        {
-          "text": "17/18",
-          "row": 173
-        },
-        {
-          "text": "0分\n[1x5]",
-          "row": 173
-        },
-        {
-          "text": "4分\n[2/2/1/2/2]",
-          "row": 173
-        },
-        {
-          "text": "8分\n[3/3/1/3/3]",
-          "row": 173
-        },
-        {
-          "text": "16分\n[大/大/1/大/大]",
-          "row": 173
-        },
-        {
-          "text": "20分\n(TeraHit)",
-          "row": 173
         }
       ],
       "images": [
         {
-          "src": "assets/image55.png",
-          "row": 139
+          "src": "assets/play-update/xai-rolls.png",
+          "row": 155
         },
         {
-          "src": "assets/image80.png",
-          "row": 143
-        },
-        {
-          "src": "assets/image101.png",
-          "row": 146
-        },
-        {
-          "src": "assets/image78.png",
-          "row": 156
-        },
-        {
-          "src": "assets/image86.png",
-          "row": 169
-        },
-        {
-          "src": "assets/image71.png",
-          "row": 169
-        },
-        {
-          "src": "assets/image53.png",
-          "row": 169
-        },
-        {
-          "src": "assets/image75.png",
-          "row": 169
-        },
-        {
-          "src": "assets/image87.png",
-          "row": 169
-        },
-        {
-          "src": "assets/image49.png",
-          "row": 172
+          "src": "assets/play-update/training-scores.png",
+          "row": 165
         }
       ]
     },
@@ -12594,80 +12405,11 @@ window.GUIDE={
       "title": "關卡與戰鬥",
       "gid": 914896337,
       "row": 176,
-      "paragraphs": [
-        {
-          "text": "關卡玩法",
-          "row": 176
-        },
-        {
-          "text": "4.視乎地區出現不同事件",
-          "row": 176
-        },
-        {
-          "text": "1.目前身處區域*",
-          "row": 177
-        },
-        {
-          "text": "2.搖機決定步數",
-          "row": 177
-        },
-        {
-          "text": "3. 按抽取步數前進",
-          "row": 177
-        },
-        {
-          "text": "非戰鬥區(直取道具)",
-          "row": 177
-        },
-        {
-          "text": "戰鬥區^",
-          "row": 177
-        },
-        {
-          "text": "*如非首進地圖，可選擇繼續上次的進度或重置地圖",
-          "row": 181
-        },
-        {
-          "text": "^有關戰鬥： \n1.如同訓練，你的攻擊組合取決於[搖機數] 乘 [XAI骰數]\n2. 對手也有機會使出\"Tera Hit\"：如果被對手的\"Tera Hit\"擊敗，\n並且進入重創狀態，數碼獸有可能會死亡。\n(這時可快速搖機嘗試=拯救你的數碼獸，)",
-          "row": 181
-        },
-        {
-          "text": "[Ver 1.0]任何敵方數碼獸的打出Terahits時，會直接秒殺你的數碼獸。\n[其他版本]敵方數碼獸進化階段更高時，\"TeraHits\"才會一擊必殺你的數碼獸；如果進化階段相同或更低，則只會扣減4格生命值。",
-          "row": 182
-        },
-        {
-          "text": "(有關地圖上不同區域之結果，請參閱「地圖」篇章)",
-          "row": 183
-        }
-      ],
+      "paragraphs": [],
       "images": [
         {
-          "src": "assets/image92.png",
-          "row": 177
-        },
-        {
-          "src": "assets/image131.png",
-          "row": 177
-        },
-        {
-          "src": "assets/image85.png",
-          "row": 178
-        },
-        {
-          "src": "assets/image53.png",
-          "row": 178
-        },
-        {
-          "src": "assets/image117.png",
-          "row": 178
-        },
-        {
-          "src": "assets/image96.png",
-          "row": 178
-        },
-        {
-          "src": "assets/image102.png",
-          "row": 178
+          "src": "assets/play-update/quests.png",
+          "row": 176
         }
       ]
     },
